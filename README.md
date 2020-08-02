@@ -1,10 +1,10 @@
 # Urban Octo Telegram website 
 ## Code Refactor Starter Code
 ### HTML file changes
-head changes
-    Updated title to reflect company name.
+    head changes
+        Updated title to reflect company name.
 
-Body changes
+    Body changes
     header section changes
         Removed Class and used element <header> instead.
         Removed extra </div> 
