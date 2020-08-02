@@ -62,6 +62,8 @@ p {
     background-position: center;
 }
 
+/* article CSS styling */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,8 +73,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-/* article CSS styling */
 
 article {
     width: 75%;
