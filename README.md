@@ -1,5 +1,9 @@
 # Urban Octo Telegram website 
 ## Code Refactor Starter Code
+https://heather-everton.github.io/urban-octo-telegram/
+<img src="./assets/images/UOT-screenshot.png" alt="webpage screenshot" />
+
+
 ### HTML file changes
     head changes
         Updated title to reflect company name.
