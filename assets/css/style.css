@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header CSS Styling */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/* Hero section CSS styling */
+
 .hero {
     height: 100%;
     width: 100%;
@@ -68,11 +72,33 @@ p {
     margin-left: 25px;
 }
 
+/* article CSS styling */
+
 article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+article div {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+article img {
+    max-height: 200px;
+}
+
+article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* benefits section CSS Styling */
 
 .benefits {
     margin-right: 20px;
@@ -101,23 +127,7 @@ article {
     max-width: 150px;
 }
 
-article div {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-article img {
-    max-height: 200px;
-}
-
-article h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* footer CSS styling */
 
 footer {
     padding: 30px;
